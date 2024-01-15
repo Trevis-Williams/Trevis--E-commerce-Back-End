@@ -4,7 +4,7 @@
 Trevis E-commerce Back End is a backend application that provides API endpoints for an e-commerce platform. It allows for operations on products, categories, and tags, enabling seamless integration with front-end e-commerce solutions.
 
 ## Video Guide 
-https://drive.google.com/file/d/1CXSIZA2vw7HAw526QWFi9TjelNBs3KUu/view
+https://drive.google.com/file/d/163tmiqepTltLKdB_F65UDBCn7ijgT9y-/view
 
 ## Features
 - CRUD operations for managing products, categories, and tags.
