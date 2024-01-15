@@ -1,7 +1,3 @@
-Certainly! Below is a simple README template for a backend project named "Trevis E-commerce Back End":
-
----
-
 # Trevis E-commerce Back End
 
 ## Description
